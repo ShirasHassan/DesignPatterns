@@ -1,0 +1,15 @@
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/DesignPatterns.Behavioural.deps.json
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/DesignPatterns.Behavioural.runtimeconfig.json
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/DesignPatterns.Behavioural.runtimeconfig.dev.json
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/DesignPatterns.Behavioural.dll
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/ref/DesignPatterns.Behavioural.dll
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/bin/Debug/net5.0/DesignPatterns.Behavioural.pdb
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.csprojAssemblyReference.cache
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.AssemblyInfoInputs.cache
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.AssemblyInfo.cs
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.csproj.CoreCompileInputs.cache
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.dll
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/ref/DesignPatterns.Behavioural.dll
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.pdb
+/Users/shirashassan/Projects/DesignPatterns/DesignPatterns.Behavioural/obj/Debug/net5.0/DesignPatterns.Behavioural.genruntimeconfig.cache
