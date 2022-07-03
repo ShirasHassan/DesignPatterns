@@ -15,6 +15,7 @@ namespace DesignPatterns.Behavioural.Iterator
                 this._position = wordsCollection.getItems().Count;
             }
         }
+        
         public override object Current()
         {
             return this._wordsCollection.getItems()[_position];
